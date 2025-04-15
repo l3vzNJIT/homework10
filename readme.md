@@ -12,9 +12,11 @@ Spring 2025
 
 [Issue #1: dockerhub](https://github.com/l3vzNJIT/homework10/issues/1)
 
-[Issue #3: vulnerabilities](https://github.com/l3vzNJIT/homework10/issues/3)
+[Issue #2: vulnerabilities](https://github.com/l3vzNJIT/homework10/issues/3)
 
-[Issue #5: Login and register example data mismatch](https://github.com/l3vzNJIT/homework10/issues/5)
+[Issue #3: Login and register example data mismatch](https://github.com/l3vzNJIT/homework10/issues/5)
+
+[Issue #4: Cryptographic hashing improvement](https://github.com/l3vzNJIT/homework10/issues/7)
 
 
 
