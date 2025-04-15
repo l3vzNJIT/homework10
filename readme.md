@@ -4,7 +4,7 @@ Spring 2025
 
 ## Docker Hub
 
-[Lev's dockerhub repo] (https://hub.docker.com/repository/docker/l3vz/homework10/general)
+[Dockerhub repo] (https://hub.docker.com/r/l3vz/homework10)
 
 
 ## Issues Fixed
