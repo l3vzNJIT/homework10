@@ -7,9 +7,13 @@
 
 ## Issues Fixed
 
+
 [Issue #1: dockerhub](https://github.com/l3vzNJIT/homework10/issues/1)
 
 [Issue #3: vulnerabilities](https://github.com/l3vzNJIT/homework10/issues/3)
+
+[Issue #5: Login and register example data mismatch](https://github.com/l3vzNJIT/homework10/issues/5)
+
 
 
 ## Submission Requirements
