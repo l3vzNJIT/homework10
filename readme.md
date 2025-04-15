@@ -1,7 +1,8 @@
 # Homework 10
 ### Lev Zelenin
 
-Issues Fixed
+## Issues Fixed
+
 [Issue #1](https://github.com/l3vzNJIT/homework10/issues/1)
 
 
