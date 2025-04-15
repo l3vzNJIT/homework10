@@ -21,6 +21,10 @@ RUN apt-get update \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
+# Add git (needed for fastapi@master), upgrade tools
+RUN apt-get update && apt-get install -y git && \
+    pip install --upgrade pip setuptools wheel
+
 # Copy only the requirements, to cache them in Docker layer
 COPY ./requirements.txt /myapp/requirements.txt
 
